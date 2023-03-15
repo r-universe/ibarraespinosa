@@ -1,10 +1,10 @@
 [
   {
-    "package": "cptcity",
+    "package": "geofabrik",
     "oncran": true
   },
   {
-    "package": "geofabrik",
+    "package": "cptcity",
     "oncran": true
   }
 ]
