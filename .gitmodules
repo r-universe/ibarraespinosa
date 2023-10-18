@@ -5,6 +5,3 @@
 [submodule "cptcity"]
 	path = cptcity
 	url = https://github.com/ibarraespinosa/cptcity
-[submodule "geofabrik"]
-	path = geofabrik
-	url = https://github.com/ibarraespinosa/geofabrik
